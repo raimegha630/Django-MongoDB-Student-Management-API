@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Skill Lab is a backend REST API developed using Django REST Framework and MongoDB. The project provides secure user authentication and APIs for managing students, courses, and analytics. Passwords are securely stored using bcrypt hashing.
+This is a backend REST API developed using Django REST Framework and MongoDB. The project provides secure user authentication and APIs for managing students, courses, and analytics. Passwords are securely stored using bcrypt hashing.
 
 ## 🚀 Features
 
