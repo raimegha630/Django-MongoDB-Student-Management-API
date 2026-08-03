@@ -49,7 +49,7 @@ git clone https://github.com/raimegha630/Django-MongoDB-Student-Management-API.g
 2. Navigate to the project
 
 ```bash
-cd skill-lab-django-mongodb
+cd Django-MongoDB-Student-Management-API
 ```
 
 3. Install dependencies
