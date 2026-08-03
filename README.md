@@ -43,7 +43,7 @@ skill-lab/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/skill-lab-django-mongodb.git
+git clone https://github.com/raimegha630/Django-MongoDB-Student-Management-API.git
 ```
 
 2. Navigate to the project
